@@ -1,1 +1,1 @@
-# -hospital
+Hospital Management with Laravel: Collaborated on a hospital management system that streamlined patient appointments, medical records, and billing. Used HTML, CSS, Laravel and Bootstrap  for the frontend design.
