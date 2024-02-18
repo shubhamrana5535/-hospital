@@ -41,7 +41,7 @@
 <img src = "dataimgs/20d173666ec158cc888ff4d6fcc2701a.jpg" alt = "image4" class = "d-block" style = "width:100%;">  
 </div>  
 </div>  
-<!-- previous and next icons -->  
+ 
 <button class = "carousel-control-prev" type = "button" data-bs-target = "#carouseldemo" data-bs-slide = "prev">  
 <span class="carousel-control-prev-icon"></span>  
 </button>  
